@@ -1,4 +1,3 @@
-
 Level Ground Project
 
 This project is inspired by the Level Ground design and is part of the 100Devs course aimed at mastering CSS fundamentals. The goal is to create a responsive web page layout based on the Level Ground homepage, focusing on layout positioning using foundational CSS techniques like float.
